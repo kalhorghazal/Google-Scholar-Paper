@@ -8,7 +8,7 @@ library(dplyr)
 library(ergm)
 library(intergraph)
 
-graph <- read.graph("full.graphml", format = "graphml")
+graph <- read.graph("MACN.graphml", format = "graphml")
 
 ergmNetwork <- intergraph::asNetwork(graph)
 
