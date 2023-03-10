@@ -1,6 +1,6 @@
-# Google-Scholar-Paper
+# Google Scholar Paper
 
-This repository contains the datasets of 850,827 authors of Google Scholar we collected in 2021 and analyzed in this paper:
+This repository contains the Python and R scripts written to analyze the datasets of 850,827 authors of Google Scholar we collected in 2021 for this paper:
 
 Title: "A new insight to the analysis of co-authorship in Google Scholar"
 
@@ -8,7 +8,9 @@ Authors: Ghazal Kalhor, Amin Asadi Sarijalou, Niloofar Sharifi Sadr, and Behnam 
 
 DOI: https://doi.org/10.1007/s41109-022-00460-4
 
-If you use this dataset in your work, please cite our paper:
+Datasets: https://drive.google.com/drive/folders/1v9nkcG2QasMX54Ejv2jVEpX_5DzB8xt2?usp=share_link
+
+If you use our scripts or datasets in your work, please cite our paper:
 
 Kalhor, G., Asadi Sarijalou, A., Sharifi Sadr, N. et al. A new insight to the analysis of co-authorship in Google Scholar. Appl Netw Sci 7, 21 (2022). https://doi.org/10.1007/s41109-022-00460-4
 
