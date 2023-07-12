@@ -12,7 +12,7 @@ Datasets: https://drive.google.com/drive/folders/1v9nkcG2QasMX54Ejv2jVEpX_5DzB8x
 
 If you use our scripts or datasets in your work, please cite our paper:
 
-Kalhor, G., Asadi Sarijalou, A., Sharifi Sadr, N. et al. A new insight to the analysis of co-authorship in Google Scholar. *Appl Netw Sci* 7, 21 (2022). https://doi.org/10.1007/s41109-022-00460-4
+Kalhor, G., Asadi Sarijalou, A., Sharifi Sadr, N. and Bahrak, B., 2022. A new insight to the analysis of co-authorship in Google Scholar. *Applied Network Science*, 7(1), p.21. https://doi.org/10.1007/s41109-022-00460-4
 
 
 # Datasets
